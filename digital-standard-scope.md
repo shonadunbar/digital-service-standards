@@ -1,7 +1,7 @@
 ##Scope of the Digital Service Standard
 While the information and guidance within the Digital Service Design Guide will be useful for teams in all services, the standard itself will not apply to all government services. As described in the e-Government and Digital Economy Policy, only high-volume services released from [month] 2015 must meet it.
  
-##Transaction services
+###Transaction services
  
 To establish whether your service must meet the service standard, ask yourself if your service is:
  - completely new and/or being redesigned?
@@ -18,7 +18,7 @@ then your service will need to adopt the standard by end of 2017 and provide a p
  
 If you have answered no to one or more of these questions then your service does not have to meet the standard.
  
-##Digital information as a service
+###Digital information as a service
  
 
 To establish whether your information (including all websites and publications) must meet the service standard, ask yourself if the information is:
@@ -29,7 +29,7 @@ If you have answered yes to all questions then the information must meet the sta
  
 Existing information will need to adopt the standard by end of 2017 and agencies must provide a plan by [month] 2015 on how they will transition all information to the standard progress will be monitored.
  
-##Why the standard doesn’t apply to everything
+###Why the standard doesn’t apply to everything
  
 Government services cover a vast variety of activity, from the mainstream to the highly specialised. Applying the standard to services dealing with a handful of transactions is likely to have fewer benefits.
  
