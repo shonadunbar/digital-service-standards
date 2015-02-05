@@ -2,7 +2,6 @@
 layout: Digital Service Standard
 title: What is Digital Service Standard?
 subtitle: Introduction 
-category: authors
 type: guide
 audience:
   primary: authors
