@@ -1,3 +1,19 @@
+---
+layout: Introduction
+title: Digital Service Standard on GitHub
+subtitle: Publishing for Public Comments 
+category: authors, users
+type: guide
+audience:
+  primary: authors
+status: draft
+phases:
+  - discovery
+breadcrumbs:
+  -
+    title: Home
+    url: /public
+---
 ##Digital Service Standard
 The Australian Government Digital Service Standard is modelled off the UK Government’s Digital by Default service standard. It establishes the best practices for high quality new or redesigned digital services. The standard will be supported by a Digital Service Design Guide to help agencies design trusted, cost-effective government services that are embraced by users and meet their needs first time. Before any new or redesigned service can be launched within the scope of the standard it must meet the criteria set out in the standard.
 
