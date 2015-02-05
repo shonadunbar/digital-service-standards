@@ -10,7 +10,7 @@ phases:
   - discovery
   - alpha
   - beta
-  - live
+  - live 1
 ---
 # Digital Service Standard
 
