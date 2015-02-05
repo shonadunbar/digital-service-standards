@@ -1,3 +1,17 @@
+---
+layout: DSS Definitions
+title: Digital Service Standard and Design Guide
+subtitle: Definition 
+category: authors
+type: guide
+audience:
+  primary: authors
+status: draft
+phases:
+  - discovery
+  - beta
+  - live
+---
 ##Digital Service Definitions
 ###Service
  
