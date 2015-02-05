@@ -1,7 +1,7 @@
 ---
 layout: Introduction
-title: Digital Service Standard on GitHub
-subtitle: Publishing for Public Comments 
+title: Digital Service Standard
+subtitle: Criteria for Digital Services 
 category: authors, users
 type: guide
 audience:
