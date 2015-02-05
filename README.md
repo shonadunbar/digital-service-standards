@@ -8,7 +8,10 @@ audience:
   primary: authors
 status: draft
 phases:
-  - discovery, alpha, beta, live
+  - discovery
+  - alpha
+  - beta
+  - live
 ---
 # Digital Service Standard
 
